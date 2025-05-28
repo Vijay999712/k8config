@@ -1,5 +1,5 @@
 #!/bin/bash
-set -xe
+set +xe
 
 # Update system and install dependencies
 sudo yum update -y
